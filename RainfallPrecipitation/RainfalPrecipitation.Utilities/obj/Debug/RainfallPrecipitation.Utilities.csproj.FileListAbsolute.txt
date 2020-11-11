@@ -1,0 +1,6 @@
+H:\Munmun's RND study\Console-App-Parser-master\Console-App-Parser-master\RainfallPrecipitation\RainfalPrecipitation.Utilities\bin\Debug\RainfallReadingDB.mdf
+H:\Munmun's RND study\Console-App-Parser-master\Console-App-Parser-master\RainfallPrecipitation\RainfalPrecipitation.Utilities\obj\Debug\RainfalPrecipitation.Utilities.dll
+H:\Munmun's RND study\Console-App-Parser-master\Console-App-Parser-master\RainfallPrecipitation\RainfalPrecipitation.Utilities\obj\Debug\RainfalPrecipitation.Utilities.pdb
+H:\Munmun's RND study\Console-App-Parser-master\Console-App-Parser-master\RainfallPrecipitation\RainfalPrecipitation.Utilities\bin\Debug\RainfalPrecipitation.Utilities.dll
+H:\Munmun's RND study\Console-App-Parser-master\Console-App-Parser-master\RainfallPrecipitation\RainfalPrecipitation.Utilities\bin\Debug\RainfalPrecipitation.Utilities.pdb
+H:\Munmun's RND study\Console-App-Parser-master\Console-App-Parser-master\RainfallPrecipitation\RainfalPrecipitation.Utilities\bin\Debug\RainfallReadingDB_log.ldf
